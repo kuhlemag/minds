@@ -24,7 +24,7 @@ color: black;
  margin-top:500px;
 }
 header{
-  background: url("../images/cooking.jpeg");
+  background: url("cooking.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size:cover;
